@@ -1,0 +1,13 @@
+C:\Users\Simas\source\repos\Techh2\Techh2\obj\Debug\netcoreapp3.1\Techh2.csprojAssemblyReference.cache
+C:\Users\Simas\source\repos\Techh2\Techh2\obj\Debug\netcoreapp3.1\Techh2.AssemblyInfoInputs.cache
+C:\Users\Simas\source\repos\Techh2\Techh2\obj\Debug\netcoreapp3.1\Techh2.AssemblyInfo.cs
+C:\Users\Simas\source\repos\Techh2\Techh2\obj\Debug\netcoreapp3.1\Techh2.csproj.CoreCompileInputs.cache
+C:\Users\Simas\source\repos\Techh2\Techh2\bin\Debug\netcoreapp3.1\Techh2.exe
+C:\Users\Simas\source\repos\Techh2\Techh2\bin\Debug\netcoreapp3.1\Techh2.deps.json
+C:\Users\Simas\source\repos\Techh2\Techh2\bin\Debug\netcoreapp3.1\Techh2.runtimeconfig.json
+C:\Users\Simas\source\repos\Techh2\Techh2\bin\Debug\netcoreapp3.1\Techh2.runtimeconfig.dev.json
+C:\Users\Simas\source\repos\Techh2\Techh2\bin\Debug\netcoreapp3.1\Techh2.dll
+C:\Users\Simas\source\repos\Techh2\Techh2\bin\Debug\netcoreapp3.1\Techh2.pdb
+C:\Users\Simas\source\repos\Techh2\Techh2\obj\Debug\netcoreapp3.1\Techh2.dll
+C:\Users\Simas\source\repos\Techh2\Techh2\obj\Debug\netcoreapp3.1\Techh2.pdb
+C:\Users\Simas\source\repos\Techh2\Techh2\obj\Debug\netcoreapp3.1\Techh2.genruntimeconfig.cache
